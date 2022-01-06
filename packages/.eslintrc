@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@notafiscal/eslint-config"
+  ]
+}
