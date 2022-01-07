@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "@notafiscal/eslint-config/lib/eslint-config-react"
+    ],
+    "rules": {}
+}
